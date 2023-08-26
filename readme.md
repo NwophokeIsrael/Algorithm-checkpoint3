@@ -2,8 +2,6 @@
 
 Insertion Sort Algorithm
 This is an implementation of the insertion sort algorithm in pseudo-code-like format. Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time.
-
-Algorithm Description
 The provided code snippet demonstrates the insertion sort algorithm using an example array named cards. The algorithm works as follows:
 
 Iterate through the array starting from the second element.
